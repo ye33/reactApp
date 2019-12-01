@@ -14,7 +14,7 @@ export default class Index extends React.Component {
 		return (
 			<div>
 				<p>{val}</p>
-				<p>have a test</p>
+				<p>development & merge</p>
 			</div>
 		);
 	}
