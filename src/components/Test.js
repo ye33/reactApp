@@ -15,6 +15,7 @@ export default class Index extends React.Component {
 			<div>
 				<p>{val}</p>
 				<p>development & merge & feature-share & feature-share-two</p>
+				<p>release-1.0.0</p>
 			</div>
 		);
 	}
