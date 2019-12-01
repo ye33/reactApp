@@ -11,6 +11,11 @@ export default class Index extends React.Component {
 	render() {
 		const { val } = this.state;
 
-		return <div>Have a try{val}</div>;
+		return (
+			<div>
+				<p>{val}</p>
+				<p>have a test</p>
+			</div>
+		);
 	}
 }
